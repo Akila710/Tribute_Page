@@ -1,0 +1,15 @@
+h1 {text-align:center ;
+    color:rgb(9, 3, 111)
+}
+
+img {
+      margin-left: auto;
+      margin-right: 100px;
+      display:block;
+}
+
+body {
+    background-image:url("flag4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
